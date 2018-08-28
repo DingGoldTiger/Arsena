@@ -1,0 +1,12 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "docs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev ",
+    "build": "vuepress build "
+  },
+  "author": "dougie",
+  "license": "ISC"
+}

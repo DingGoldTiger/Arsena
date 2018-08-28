@@ -1,0 +1,31 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "Static blog based on vuepress.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DingGoldTiger/blog.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DingGoldTiger/blog.git"
+  },
+  "homepage": "https://github.com/DingGoldTiger/blog.git",
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vuepress": "^0.10.0"
+  },
+  "dependencies": {
+    "element-ui": "^2.3.6"
+  }
+}
